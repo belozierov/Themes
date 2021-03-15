@@ -1,3 +1,3 @@
 # Themes
 
-A description of this package.
+Example of use - https://github.com/belozierov/ThemeExample
